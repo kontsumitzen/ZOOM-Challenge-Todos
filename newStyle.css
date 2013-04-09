@@ -1,0 +1,9 @@
+#todo-list li .view label{
+	-webkit-box-flex:1;
+}
+
+#todo-list li .view {
+	display:-webkit-box;
+	-webkit-box-orient: horizontal;
+	-webkit-box-align: stretch;
+}
